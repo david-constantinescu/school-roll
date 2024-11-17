@@ -5,8 +5,8 @@ School Roll is a lightweight ans simple application designed to help manage stud
 	•	Assign and view grades for each student.
 	•	Upload a PDF file for each grade to represent the corresponding test or assessment.
  	•	Select a PDF, for which the grade of a specific student of the median grade can be displayed
-  •	Edit or delete grades and students
-  •	Be accessed from the local (or wide-area) network, via port forwarding if needed, with a web app from the brother-repo github.com/david-constantinescu/school-roll-remoteaccess-webgui
+ 	•	Edit or delete grades and students
+  	•	Be accessed from the local (or wide-area) network, via port forwarding if needed, with a web app from the brother-repo github.com/david-constantinescu/school-roll-remoteaccess-webgui
 
 
 Features
