@@ -1,6 +1,6 @@
 School Roll
 
-School Roll is a lightweight ans simple application designed to help manage student records with ease. You can:
+School Roll is a lightweight and simple application designed to help manage student records with ease. You can:
 	•	Add student names to your roll.
 	•	Assign and view grades for each student.
 	•	Upload a PDF file for each grade to represent the corresponding test or assessment.
