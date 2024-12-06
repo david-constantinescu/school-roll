@@ -20,7 +20,7 @@ Features
   
 Installation
 
-This project has now been archived in favor of the bettwer, more feature-rich github.com/david-constantinescu/school-roll-remoteaccess-webgui.
+This project has now been archived in favor of the better, more feature-rich github.com/david-constantinescu/school-roll-remoteaccess-webgui.
 
 To get started, install the required dependencies using pip:
 
